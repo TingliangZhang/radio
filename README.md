@@ -5,7 +5,7 @@
 
 北京报名：
 
-http://xt.bjwxdxh.org.cn/memberindex/
+http://xt.bjwxdxh.org.cn/loginmember/
 
 
 
