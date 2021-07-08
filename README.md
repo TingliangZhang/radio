@@ -19,4 +19,11 @@ https://github.com/jks-liu/zhihu/blob/master/ham-license-type-a.md
 
 
 
+题库：
+
+https://www.cqid.cn/
+
+
+
 参考书：业余无线电通信
+
